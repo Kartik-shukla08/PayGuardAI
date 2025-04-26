@@ -1,0 +1,14 @@
+streamlit
+pandas
+xgboost
+plotly
+matplotlib
+seaborn
+streamlit_extras
+auth0_component
+pickle
+random
+datetime
+altair
+
+
