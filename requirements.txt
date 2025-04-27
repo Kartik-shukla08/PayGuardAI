@@ -4,8 +4,8 @@ xgboost
 plotly
 matplotlib
 seaborn
-streamlit_extras
-auth0_component
+streamlit-extras
+streamlit-auth0-component
 pickle
 random
 datetime
