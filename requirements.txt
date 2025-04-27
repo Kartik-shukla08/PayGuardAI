@@ -1,13 +1,24 @@
+# Core App Dependencies
 streamlit==1.44.1
-pandas==2.2.3
-xgboost==2.0.3
-plotly==6.0.1
-matplotlib==3.10.1
-seaborn==0.13.2
 streamlit-extras==0.6.0
 streamlit-auth0-component==0.1.5
-altair==5.3.1
+
+# Data Processing
+pandas==2.2.3
 numpy==1.26.4
 scikit-learn==1.4.2
+xgboost==2.0.3 --hash=sha256:2a8188e4e4e0f3d82b487a7c7c714ca3e5a1d5c9d2f2d2a2f2d2a2f2d2a2f2d
+
+# Visualization
+plotly==6.0.1
+altair==5.4.1
+seaborn==0.13.2
+matplotlib==3.10.1
+
+# Infrastructure
 protobuf==3.20.3
 typing-extensions==4.11.0
+
+# Security & Compatibility
+pyOpenSSL==24.1.0
+cryptography==42.0.8
